@@ -20,3 +20,17 @@ java --module-path PATH-TO-JAVAFX12-SDK-LIB --add-modules javafx.controls,javafx
 ```
 
 5. The application should now be running.
+
+# Functionality
+
+Local Authentication
+
+![LocalAuth](https://i.imgur.com/7C2wABD.png)
+
+Catalog View
+
+![Catalog](https://i.imgur.com/j6uDqpH.png)
+
+Adding items
+
+![CRUDOps](https://i.imgur.com/eRsIV9I.png)
